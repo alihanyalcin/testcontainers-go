@@ -53,6 +53,7 @@ nav:
         - modules/index.md
         - modules/couchbase.md
         - modules/localstack.md
+        - modules/postgres.md
         - modules/pulsar.md
         - modules/vault.md
     - Examples:
@@ -65,7 +66,6 @@ nav:
         - examples/mongodb.md
         - examples/mysql.md
         - examples/nginx.md
-        - examples/postgres.md
         - examples/pubsub.md
         - examples/redis.md
         - examples/spanner.md
